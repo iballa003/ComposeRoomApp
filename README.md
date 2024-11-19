@@ -1,4 +1,4 @@
-#Esquema en Markdown Room
+## Esquema en Markdown Room
 Es una capa de abstracción que se ubica sobre una base de datos SQLite. Room simplifica las tareas de configuración de la base de datos, así como las interacciones con la app.
 
 
